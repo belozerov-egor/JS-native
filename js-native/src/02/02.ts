@@ -11,7 +11,7 @@ type AddressType = {
     city: PlaceType
 }
 
-type StudentType = {
+export type StudentType = {
     id: number
     name: string
     age: number
